@@ -1,0 +1,25 @@
+body {
+  min-height: 2000px;
+}
+
+.navbar-static-top {
+  margin-bottom: 19px;
+}
+
+.navbar-default {
+background-color: #000;
+border-color: #000;
+font-size: 18px;
+}
+
+.navbar-nav > li > a > {
+color: #fff;
+}
+
+.navbar-default .navbar-nav > li > a:hover,
+.navbar-default .navbar-nav > li > a:focus {
+  color: #fff;
+  
+.jumbotron {
+    background-color: #999;
+}
